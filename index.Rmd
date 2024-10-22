@@ -1,0 +1,24 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jmm's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+This is Jeff's awesome website about data science. 
+Sometimes I use [google](https://www.google.com/) to do data science when I'm stuck.
+
+This is a cute cat.
+
+![](https://wallpaperaccess.com/full/2111331.jpg)
+
+<img src="https://wallpaperaccess.com/full/2111331.jpg" style="width:75%">
+
+If you'd like to learn more about this website, wisit [this page](about.html)
+
+
